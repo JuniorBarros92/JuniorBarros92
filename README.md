@@ -8,7 +8,7 @@
   <h1>Olá, eu sou <span style="color: #d65dff;">Junior Barros!</span></h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=d65dff&background=00000000&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-End;React.js;TypeScript;TailwindCSS;Node.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=d65dff&background=00000000&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-End;React.js;TypeScript;TailwindCSS;Node.js;git." alt="Typing SVG" />
   </a>
   
   <br/>
@@ -23,7 +23,7 @@ Tenho facilidade em aprender novas tecnologias. Também possuo experiência em o
 
   <h3><span style="color: #d65dff">T E C H &nbsp;&nbsp; S T A C K</span></h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,docker&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,nodejs,git,next" />
   </a>
 
   <br/><br/>

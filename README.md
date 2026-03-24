@@ -1,6 +1,7 @@
 <div align="center">
   
-  <img src="./assets/BannerGit.png" width="100%" alt="Banner Futurista Dark" style="border-radius: 10px;"/>
+ <img alt="imagengit" src="https://github.com/user-attachments/assets/88840060-51bb-4153-8cfd-120d10805e6e" th="100%" />
+
 
   <br/><br/>
 

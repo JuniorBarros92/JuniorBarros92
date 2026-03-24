@@ -7,7 +7,7 @@
   <h1>Olá, eu sou <span style="color: #d65dff;">Junior Barros!</span></h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=d65dff&background=00000000&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-End;Especialista+em+React+e+Node.js;Focado+em+Clean+Code+e+Performance;Criando+soluções+escaláveis." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=d65dff&background=00000000&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-End;React.js;TypeScript;TailwindCSS;Node.js" alt="Typing SVG" />
   </a>
   
   <br/>

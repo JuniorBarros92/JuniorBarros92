@@ -23,7 +23,7 @@ Tenho facilidade em aprender novas tecnologias. Também possuo experiência em o
 
   <h3><span style="color: #d65dff">T E C H &nbsp;&nbsp; S T A C K</span></h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,nodejs,git,next" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css,nodejs,git,next" />
   </a>
 
   <br/><br/>
